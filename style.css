@@ -1,0 +1,26 @@
+ body {
+text-align:center;
+ }
+ 
+ .col {
+ float:left;
+ text-align:center;
+ width: 40%;
+ }
+ 
+ hr {
+    border: none; 
+    background-color: black;
+    color: black; 
+    height: 2px; 
+   }
+
+h3 {
+	font-size: 150%;
+	margin-bottom: 1px;
+	margin-top: 25px;
+}
+
+p {
+	font-size: 110%;
+}

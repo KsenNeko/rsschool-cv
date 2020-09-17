@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ksenneko.github.io/rsschool-cv/cv.md

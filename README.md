@@ -1,1 +1,1 @@
-https://ksenneko.github.io/rsschool-cv/cv.md
+https://ksenneko.github.io/rsschool-cv/cv

@@ -1,5 +1,5 @@
 ## Contacts
-My name is Kseniya.
+My name is Kseniya
 
 ## About me
 I have a great desire to learn something new. I easily adapt to a new team

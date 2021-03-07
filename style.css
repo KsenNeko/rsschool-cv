@@ -24,3 +24,7 @@ h3 {
 p {
 	font-size: 110%;
 }
+
+li {
+   list-style-type: none;
+}
